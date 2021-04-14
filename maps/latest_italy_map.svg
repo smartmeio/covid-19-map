@@ -23,7 +23,7 @@ text {font-family:monospace,Courier New,Liberation Mono;font-size:14px}
 path {stroke:#ffffff;stroke-width:0.5}
 path:hover {stroke-width:1.5}
 </style>
-  <text id="date" x="10" y="34" style="font-size:24px">14 Apr 2021</text>
+  <text id="date" x="10" y="34" style="font-size:24px">13 Apr 2021</text>
   <!--
 <g id="legend" transform="translate(-391.6,951)">
  <text x="403.9" y="5">1 / 5</text>
